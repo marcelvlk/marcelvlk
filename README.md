@@ -19,15 +19,15 @@ I believe growth happens at the intersection of curiosity and discipline. Whethe
 
 
 ## 🛠️ Tools & Technologies
-![C#/.NET](https://img.shields.io/badge/C%23_&_ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#/.NET](https://img.shields.io/badge/C%23/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Blazor WASM](https://img.shields.io/badge/Blazor_WASM-512BD4?style=flat&logo=blazor&logoColor=white)
-![MVC](https://img.shields.io/badge/ASP.NET_MVC-00599C?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-00599C?style=flat&logo=dotnet&logoColor=white)
 ![Web Forms](https://img.shields.io/badge/ASP.NET_Web_Forms-0C5BB3?style=flat&logo=windows&logoColor=white)
 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=micro&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-41B883?style=flat&logo=serverless&logoColor=white)
 ![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-FF5722?style=flat&logo=eventbrite&logoColor=white)
-![Message-Based](https://img.shields.io/badge/Message--Based_Solutions-607D8B?style=flat&logo=rabbitmq&logoColor=white)
+![Message-Based](https://img.shields.io/badge/Message--Based_Solutions-607D8B?style=flat&logoColor=white)
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A1B1C2?style=flat&logo=githubactions&logoColor=white)
 ![Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat&logo=azure-pipelines&logoColor=white)
