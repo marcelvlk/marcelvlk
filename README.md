@@ -13,14 +13,33 @@ I'm on a mission to **build, lead, and grow** — not just in code, but in minds
 ## 💡 What Drives Me
 I believe growth happens at the intersection of curiosity and discipline. Whether it's mastering a new tool, optimizing cloud infrastructure, or experimenting with AI models, I thrive on learning fast and sharing what I know. Leadership for me means lifting others as I climb and building communities where people feel empowered to grow.
 
-## 🛠️ Tools & Technologies
+## 📜 Certifications
+[![Cisco Certified - Networking Basics](https://img.shields.io/badge/Cisco_Networking_Basics-Certified-blue)](https://www.credly.com/badges/52390067-c54d-4d7d-bf42-5340508718e4/public_url)
+[![AZ-900 Certified](https://img.shields.io/badge/Microsoft%20Certified-AZ--900-blue)](https://learn.microsoft.com/api/credentials/share/en-us/MarcelVlk-6187/F208E55759CDB613?sharingId=2CAEEB3927D65952)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+## 🛠️ Tools & Technologies
+![C#/.NET](https://img.shields.io/badge/C%23_&_ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor WASM](https://img.shields.io/badge/Blazor_WASM-512BD4?style=flat&logo=blazor&logoColor=white)
+![MVC](https://img.shields.io/badge/ASP.NET_MVC-00599C?style=flat&logo=dotnet&logoColor=white)
+![Web Forms](https://img.shields.io/badge/ASP.NET_Web_Forms-0C5BB3?style=flat&logo=windows&logoColor=white)
+
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=micro&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-41B883?style=flat&logo=serverless&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-FF5722?style=flat&logo=eventbrite&logoColor=white)
+![Message-Based](https://img.shields.io/badge/Message--Based_Solutions-607D8B?style=flat&logo=rabbitmq&logoColor=white)
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A1B1C2?style=flat&logo=githubactions&logoColor=white)
+![Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat&logo=azure-pipelines&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-4B8BBE?style=flat&logo=circle&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat&logo=azure-cosmos-db&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📈 Let’s Connect
 If you're passionate about tech, business, or just building something great — I’d love to collaborate, learn from you, or even just have a good conversation. **Let’s innovate. Let’s automate. Let’s lead the future of tech.**
@@ -31,6 +50,8 @@ If you're passionate about tech, business, or just building something great — 
 
 ## 📈 GitHub Stats
 ![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default)
 
 ---
 
