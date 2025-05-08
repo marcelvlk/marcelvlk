@@ -13,6 +13,8 @@ I'm on a mission to **build, lead, and grow** — not just in code, but in minds
 ## 💡 What Drives Me
 I believe growth happens at the intersection of curiosity and discipline. Whether it's mastering a new tool, optimizing cloud infrastructure, or experimenting with AI models, I thrive on learning fast and sharing what I know. Leadership for me means lifting others as I climb and building communities where people feel empowered to grow.
 
+![Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat&logo=azure-cosmos-db&logoColor=white)
+
 ## 📈 Let’s Connect
 If you're passionate about tech, business, or just building something great — I’d love to collaborate, learn from you, or even just have a good conversation. **Let’s innovate. Let’s automate. Let’s lead the future of tech.**
 
