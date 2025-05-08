@@ -14,16 +14,14 @@ I'm on a mission to **build, lead, and grow** — not just in code, but in minds
 I believe growth happens at the intersection of curiosity and discipline. Whether it's mastering a new tool, optimizing cloud infrastructure, or experimenting with AI models, I thrive on learning fast and sharing what I know. Leadership for me means lifting others as I climb and building communities where people feel empowered to grow.
 
 ## 📈 Let’s Connect
-If you're passionate about tech, business, or just building something great — I’d love to collaborate, learn from you, or even just have a good conversation.
-
-**Let’s innovate. Let’s automate. Let’s lead the future of tech.**
+If you're passionate about tech, business, or just building something great — I’d love to collaborate, learn from you, or even just have a good conversation. **Let’s innovate. Let’s automate. Let’s lead the future of tech.**
 
 ## 📫 Contact Me
 - [🌐 www.wolverinedevops.com](https://www.wolverinedevops.com)
 - [💼 LinkedIn](https://linkedin.com/in/marcelvlk)
 
 ## 📈 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&hide_title=true)
+![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true)
 
 ---
 
