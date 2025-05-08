@@ -13,6 +13,13 @@ I'm on a mission to **build, lead, and grow** — not just in code, but in minds
 ## 💡 What Drives Me
 I believe growth happens at the intersection of curiosity and discipline. Whether it's mastering a new tool, optimizing cloud infrastructure, or experimenting with AI models, I thrive on learning fast and sharing what I know. Leadership for me means lifting others as I climb and building communities where people feel empowered to grow.
 
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat&logo=azure-cosmos-db&logoColor=white)
 
 ## 📈 Let’s Connect
