@@ -50,10 +50,10 @@ If you're passionate about tech, business, or just building something great — 
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/marcelvlk/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelvlk&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/marcelvlk/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelvlk&repo=convoychat" />
 </a>
 
