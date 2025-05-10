@@ -56,7 +56,9 @@ If you're passionate about tech, business, or just building something great — 
       <img src="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+      <a> href=""
+        <img aling="center" src="https://camo.githubusercontent.com/8e8ae7c0f5699ac0f5943b70c686be1f829f846ba3b0f58efd242cce2a1144f7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d617263656c766c6b266c61796f75743d636f6d70616374267468656d653d64656661756c74" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+      </a>
     </td>
   </tr>
 </table>
