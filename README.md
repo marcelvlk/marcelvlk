@@ -53,12 +53,10 @@ If you're passionate about tech, business, or just building something great — 
 <table style="border: 1px solid #ccc; border-radius: 8px; padding: 16px;">
   <tr>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true&hide_border=true">
-        <img src="" alt="GitHub Stats" height="100%">
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats" >
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default&hide_border=true" alt="Top Languages" >
     </td>
   </tr>
 </table>
