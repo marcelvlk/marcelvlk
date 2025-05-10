@@ -44,9 +44,8 @@ I believe growth happens at the intersection of curiosity and discipline. Whethe
 ## 📫 Contact Me
 If you're passionate about tech, business, or just building something great — I’d love to collaborate, learn from you, or even just have a good conversation. **Let’s innovate. Let’s automate. Let’s lead the future of tech.**
 
-- [🌐 www.wolverinedevops.com](https://www.wolverinedevops.com)
+- [🌐 www.wolverinedevops.com](https://wolverinedevops.com)
 - [💼 LinkedIn](https://linkedin.com/in/marcelvlk)
-
 
 ## 📈 GitHub Activity
 <table style="border: 1px solid #ccc;">
