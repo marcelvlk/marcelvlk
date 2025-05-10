@@ -49,6 +49,18 @@ If you're passionate about tech, business, or just building something great — 
 - [💼 LinkedIn](https://linkedin.com/in/marcelvlk)
 
 ## 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&theme=default" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 ![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default)
 
 ---
