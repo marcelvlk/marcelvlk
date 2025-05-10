@@ -50,11 +50,11 @@ If you're passionate about tech, business, or just building something great — 
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/marcelvlk/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcelvlk" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelvlk&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/marcelvlk/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelvlk&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelvlk&repo=convoychat" />
 </a>
 
 ![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default)
