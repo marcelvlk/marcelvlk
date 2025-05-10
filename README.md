@@ -50,14 +50,16 @@ If you're passionate about tech, business, or just building something great — 
 
 ## 📈 GitHub Activity
 
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true" alt="GitHub Stats" width="45%">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default" alt="Top Languages" width="45%">
-
-</div>
-
+<table style="border: 1px solid #ccc; border-radius: 8px; padding: 16px;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats" width="45%">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="45%">
+    </td>
+  </tr>
+</table>
 
 
 ![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default)
