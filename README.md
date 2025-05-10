@@ -50,13 +50,13 @@ If you're passionate about tech, business, or just building something great — 
 
 ## 📈 GitHub Activity
 
-<table style="border: 1px solid #ccc; border-radius: 8px;">
+<table style="border: 1px solid #ccc; border-radius: 8px; padding: 16px;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats" height="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats" height="100%" width="100%">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="100%" width="100%">
     </td>
   </tr>
 </table>
