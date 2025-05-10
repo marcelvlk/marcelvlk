@@ -52,9 +52,9 @@ If you're passionate about tech, business, or just building something great — 
 
 <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&theme=default" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&theme=default" alt="GitHub Stats" height="45%">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default" alt="Top Languages" height="45%">
 
 </div>
 
