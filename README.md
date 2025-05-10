@@ -41,10 +41,9 @@ I believe growth happens at the intersection of curiosity and discipline. Whethe
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 📈 Let’s Connect
+## 📫 Contact Me
 If you're passionate about tech, business, or just building something great — I’d love to collaborate, learn from you, or even just have a good conversation. **Let’s innovate. Let’s automate. Let’s lead the future of tech.**
 
-## 📫 Contact Me
 - [🌐 www.wolverinedevops.com](https://www.wolverinedevops.com)
 - [💼 LinkedIn](https://linkedin.com/in/marcelvlk)
 
