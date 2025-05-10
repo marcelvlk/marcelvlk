@@ -62,7 +62,7 @@ If you're passionate about tech, business, or just building something great — 
 </table>
 
 
-![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default&)
+![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelvlk&show_icons=true&hide_title=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default)
 
 ---
 
