@@ -47,6 +47,7 @@ If you're passionate about tech, business, or just building something great — 
 - [🌐 www.wolverinedevops.com](https://www.wolverinedevops.com)
 - [💼 LinkedIn](https://linkedin.com/in/marcelvlk)
 
+
 ## 📈 GitHub Activity
 <table style="border: 1px solid #ccc;">
   <tr>
