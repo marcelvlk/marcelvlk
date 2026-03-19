@@ -7,8 +7,8 @@ I'm on a mission to **build, lead, and grow** — not just in code, but in minds
 ## 🚀 My Focus
 - **Software Development** – Clean code, scalable systems, and meaningful solutions.
 - **DevOps & Cloud** – Automating workflows, deploying confidently, and building resilient architectures.
-- **Artificial Intelligence** – Exploring how intelligent systems can augment human potential.
 - **Tech & Business Synergy** – Marrying my financial background with cutting-edge technology to solve real-world problems.
+- **Artificial Intelligence** – Exploring how intelligent systems can augment human potential.
 
 ## 💡 What Drives Me
 I believe growth happens at the intersection of curiosity and discipline. Whether it's mastering a new tool, optimizing cloud infrastructure, or experimenting with AI models, I thrive on learning fast and sharing what I know. Leadership for me means lifting others as I climb and building communities where people feel empowered to grow.
