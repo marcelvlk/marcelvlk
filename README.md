@@ -47,15 +47,6 @@ If you're passionate about tech, business, or just building something great — 
 - [🌐 wolverinedevops.com](https://wolverinedevops.com)
 - [💼 LinkedIn](https://www.linkedin.com/in/marcel-vlk)
 
-## 📈 GitHub Activity
-<table style="border: 1px solid #ccc;">
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelvlk&layout=compact&theme=default" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
 ---
 
-_Thanks for stopping by! Feel free to explore my pinned repos below._
+_Thanks for stopping by!_
